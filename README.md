@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! mi nombre es Ricardo (Richi pa´los cuates 😉)  
+🖥️ Soy un apasionado por la tecnología, desarrollo de software y ciberseguridad. Actualmente, me especializo en Python y Django, explorando el mundo de la seguridad informática.  
 
-<!--
-**sRichi18/sRichi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Lenguajes y herramientas:**  
+- 🐍 Python | ☕ Java  
+- 🌐 Django | HTML | CSS  
+- 🛡️ Ciberseguridad en formación  
 
-Here are some ideas to get you started:
+📌 **Repositorios Destacados:**  
+- [Ejercicios de Python](https://github.com/sRichi18/Python_Exercises)  
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Conéctame:** 
+- [Linkedin:] (www.linkedin.com/in/ricardo-islas-449106323)
+- [Correo:] richi.1802.islas@gmail.com  
+
