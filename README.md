@@ -1,5 +1,5 @@
-# 👋 ¡Hola! mi nombre es Ricardo (Richi pa´los cuates 😉)  
-🖥️ Soy un apasionado por la tecnología, desarrollo de software y ciberseguridad. Actualmente, me especializo en Python y Django, explorando el mundo de la seguridad informática.  
+# 👋 ¡Hola! mi nombre es Ricardo.
+Me intereso por el desarrollo de software y ciberseguridad. Actualmente, me especializo en Python y Django, explorando el mundo de la seguridad informática.  
 
 🔹 **Lenguajes y herramientas:**  
 - 🐍 Python | ☕ Java  
