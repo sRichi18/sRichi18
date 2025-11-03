@@ -1,5 +1,5 @@
 # 👋 ¡Hola! mi nombre es Ricardo.
-Me intereso por el desarrollo de software y ciberseguridad. Actualmente, me especializo en Python y Django, explorando el mundo de la seguridad informática.  
+Me intereso por la ciberseguridad y el desarrollo de software. He tranajado Python con algunos Frameworks como FastApi y Django. Actualmente desarrolle un interes en el mundo de la Seguridad Informatica.  
 
 🔹 **Lenguajes y herramientas:**  
 - 🐍 Python | ☕ Java  
@@ -7,7 +7,8 @@ Me intereso por el desarrollo de software y ciberseguridad. Actualmente, me espe
 - 🛡️ Ciberseguridad en formación  
 
 📌 **Repositorios Destacados:**  
-- [Ejercicios de Python](https://github.com/sRichi18/Python_Exercises)  
+- [Escaner de puertos con Nmap-Python:](https://github.com/sRichi18/pynmap_analyzer)
+- [Evaluador de la robustes de contraseñas:](https://github.com/sRichi18/password_strength_analyzer)
     
 
 📫 **Conéctame:** 
