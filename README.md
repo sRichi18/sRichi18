@@ -1,5 +1,5 @@
 # 👋 ¡Hola! mi nombre es Ricardo.
-Me intereso por la ciberseguridad y el desarrollo de software. He tranajado Python con algunos Frameworks como FastApi y Django. Actualmente desarrolle un interes en el mundo de la Seguridad Informatica.  
+Estudio ciberseguridad y el desarrollo de software. He tranajado Python con algunos Frameworks como FastApi y Django. Actualmente desarrolle un interes en el mundo de la Seguridad Informatica.  
 
 🔹 **Lenguajes y herramientas:**  
 - 🐍 Python | ☕ Java  
